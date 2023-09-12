@@ -9,7 +9,7 @@ Minimal [Spring Boot](http://projects.spring.io/spring-boot/) sample app.
 ## Requirements
 
 
-test commit2
+test commit3
 For building and running the application you need:
 
 - [JDK 1.8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
